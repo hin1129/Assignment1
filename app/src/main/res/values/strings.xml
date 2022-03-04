@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Home page</string>
+
+<!--    page 1-->
+    <string name="button_main">Create an account</string>
+
+<!--    <string name="text_header_reply">reply received</string>-->
+<!--    <string name="editText_main">enter message!!</string>-->
+    <!--    <string name="text_message">delete message</string>-->
+<!--    <string name="activity2_name">activity2_name</string>-->
+
+<!--    page 2-->
+    <string name="text_email">Email address</string>
+    <string name="editText_email">Email address</string>
+
+    <string name="text_create_password">create password</string>
+    <string name="editText_create_password">create password</string>
+
+    <string name="text_repeat_password">repeat password</string>
+    <string name="editText_repeat_password">repeat password</string>
+
+    <string name="button_second">Next</string>
+
+</resources>
